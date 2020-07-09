@@ -1,0 +1,12 @@
+{
+    "name": "cul-it/iiif",
+    "description": "This Python package for creating static IIIF images is a fork of https://github.com/zimeon/iiif.",
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [{
+        "name": "Simeon Warner",
+        "email": "simeon.warner@cornell.edu"
+    }]
+}
