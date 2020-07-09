@@ -4,6 +4,9 @@
     "type": "library",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
     "license": "GNU GENERAL PUBLIC LICENSE",
     "authors": [{
         "name": "Simeon Warner",
