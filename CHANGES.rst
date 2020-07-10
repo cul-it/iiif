@@ -1,6 +1,10 @@
 iiif changelog
 ==============
 
+2020-07-10 v1.1.2
+
+- Composer didn't like the four part version - bump to v1.1.2 and align tag with this version
+
 2020-07-09 v1.0.10.1
 
 - add composer.json so this can be installed with Composer
