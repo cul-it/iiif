@@ -61,7 +61,7 @@ iiif changelog
 - Change to 1.x.x version as core codebase stable
 - Make IIIF Image API v2.1 the default (although not all features implemented)
 - Improvements for PIL manipulator (thanks @jgreidy)
-- Extended info.profile to complex profiles for 2.x Image Information 
+- Extended info.profile to complex profiles for 2.x Image Information
 
 2016-04-22 v0.6.1
 
@@ -78,7 +78,7 @@ iiif changelog
 - Fix static files tile sizes (thanks @edsu)
 - Modify static tile generation for canonical URIs as used by OpenSeadragon 2.0
 - Test server now a Flask application
-- DRAFT - IIIF Image API v2.1 features for testing (not final), add /square/ 
+- DRAFT - IIIF Image API v2.1 features for testing (not final), add /square/
   region, and trial authentication support
 
 2015-02-14 v0.5.1
